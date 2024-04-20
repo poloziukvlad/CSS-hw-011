@@ -3,7 +3,14 @@
     src: url(/Roboto-Regular.ttf) format('truetype');
 }
 
+* {
+    margin: 0;
+    padding: 0;
+}
 
+.container {
+    background-color: bisque;
+}
 
 h1,h3{
     font-family: Roboto;
@@ -11,7 +18,7 @@ h1,h3{
 
 .color-text {
     color: #009D91;
-    background-color: #CD0074;
+    /* background-color: #CD0074; */
 }
 
 .first-text h2 {
