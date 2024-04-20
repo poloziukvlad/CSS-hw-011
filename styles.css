@@ -9,6 +9,11 @@ h1,h3{
     font-family: Roboto;
 }
 
+.color-text {
+    color: #009D91;
+    background-color: #CD0074;
+}
+
 .first-text h2 {
     font-family: sans-serif;
     font-weight: bold;
