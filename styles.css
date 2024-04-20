@@ -5,11 +5,22 @@
 
 
 
-h1,h2,h3 {
+h1,h3{
     font-family: Roboto;
 }
 
-p {
-    font-family: "Poppins", sans-serif;;
-    font-weight: 700;
+.first-text h2 {
+    font-family: sans-serif;
+    font-weight: bold;
 }
+
+.second-text p {
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.third-text p {
+    font-family: "Poppins", sans-serif;;
+    font-weight: 500;
+}
+
